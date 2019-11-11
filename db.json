@@ -38,7 +38,7 @@
     "owner": "1",
     "priceer": "30",
     "main_image": "apartment_3.jpg",
-    "images": ["apartment_1.jpg"0, "apartment_1.jpg", "apartment_1.jpg", "apartment_1.jpg", "apartment_1.jpg"],
+    "images": ["apartment_1.jpg", "apartment_1.jpg", "apartment_1.jpg", "apartment_1.jpg", "apartment_1.jpg"],
     "number_of_beds": "3",
     "number_of_rooms": "4",
     "address": "Alenby 3 st",
